@@ -1,0 +1,15 @@
+.myteacher{
+    background: #cccccc;
+    border: 1px solid brown;
+    width: auto;
+}
+.header{
+    background: skyblue;
+    border: 1px solid black;
+}
+.body{
+    width: auto;
+    margin-top: 10px;
+    background: gray;
+    border: 2px solid black;
+}
